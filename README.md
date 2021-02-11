@@ -1,6 +1,8 @@
 # Rivest-Cipher-4
 Simple Rivest Cipher 4 In C
 
+More informations : https://en.wikipedia.org/wiki/RC4
+
 ```c
 #include "rc4.h"
 #include <stdio.h>
